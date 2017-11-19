@@ -1,0 +1,35 @@
+
+
+body {
+    
+background-size: 100%;  
+}
+h1 {
+	font-family:Andalus	;
+	text-align: center;
+	font-size:30pt;
+    color:white;
+    
+}
+h2
+{
+	margin-left: 80px;
+	font-family: GungsuhChe;
+	color: rgb(255,128,0);
+}
+img	
+{
+	margin-right: 120px;
+	width-
+}
+p {
+	margin-left: 80px;
+	font-family: "cambria", Courier, monospace;
+	font-size:15pt;
+    color: white;	
+    text-align: bold;
+}
+a{
+	font-family: "times New roman";
+	color: orange;
+}
